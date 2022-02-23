@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good and seasonable advice to the male-contents in England shewing that it is neither the duty, nor the interest of the people of England to re-call the late King.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41395</idno>
+            <idno type="STC">Wing G1035A</idno>
+            <idno type="STC">ESTC R2519</idno>
+            <idno type="EEBO-CITATION">12780094</idno>
+            <idno type="OCLC">ocm 12780094</idno>
+            <idno type="VID">93806</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41395)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93806)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 983:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good and seasonable advice to the male-contents in England shewing that it is neither the duty, nor the interest of the people of England to re-call the late King.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Great Britain --  History --  Revolution of 1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:93806:1"/>
+            <head>Good and Seaſonable ADVICE TO THE <hi>Male-Contents in England.</hi> SHEWING, That it is neither the Duty, nor the Intereſt of the People of <hi>England</hi> to Re-call the Late <hi>King.</hi>
+            </head>
+            <p>
+               <hi>Licenſed,</hi> June 28th. 1689.</p>
+            <p>AMong the many Revolutions that have been, there was never any more Miraculous, Cheap and Eaſy, and ſome Months ago leſs thought of, than the late Deliverance of this poor Bleeding Kingdom; and yet no Bleſſing has ever been leſs thankfully received, by thoſe who have had the greateſt ſhare in the benefit of it: So great have been the manifold Bleſſings from time to time conferred on this undeſerving Nation, that nothing can be more Miraculous, but our Ingratitude; and one would think it ſhould be no hard task to recommend that Duty to men, which is ſo inter-woven in their Natures, that without offering great violence to them, they cannot but embrace; and there are few but muſt think it ſtrange, that it ſhould be neceſſary for any Pens to be imployed to let the Nation know that ſhe is now happy, when her Proſperity is as diſcernible, as the recovery of a Mans health and ſtrength is after a long and irkſome diſeaſe.</p>
+            <p>But before I proceed, I ſhall ſay two or three things which may remove prejudices; and Firſt, I declare I am a paſſionate Lover both of Monarchy and the Church of <hi>England,</hi> whoſe Intereſts are ſo mixt together, that whatſoever ſtrikes at one, muſt be fatal to the other. Secondly, I have no ſecret diſguſt to the Perſon of the late <hi>King</hi> to alienate my affections from him; but do heartily pity him, and condole thoſe misfortunes he has taken ſuch pains to draw himſelf into: I am neither conſcious of any angry reſentments of the unjuſt ſufferings of the Members of my Communion, nor have the loſſes I have ſuſtained on his account, bred in me any diſcontent with my preſent Circumſtances. Nor Thirdly, Have I any ambitious deſigns, any time ſerving-ends, to bend my Inclinations to a concurrence with the preſent happy Revolution.</p>
+            <p>Firſt, then let us deſcant a little on the Doctrine of <hi>Paſſive-Obedience</hi> and <hi>Non-Reſiſtance,</hi> that there is ſuch a Duty as <hi>Paſſive-Obedience,</hi> which may have its uſe in ſeveral Caſes is moſt certain, (for if not) then there can be no Rebellion in Nature; and men are to ſubmit to many tolerable inconveniences to the publick, and intolerable prejudices to their own private Intereſts, rather than retract their ſubmiſſion to the Supream Authority, or diſturb the Go<g ref="char:EOLhyphen"/>vernment; but that <hi>Paſſive-Obedience</hi> taken in its largeſt Senſe, without any reſtriction, is a Duty incumbent on us, I deny: Religion obliges no man to pay another more than he owes him, and therefore, why ſhould we extend our Allegiance further than the Law carries
+<pb n="2" facs="tcp:93806:2"/>it? were this Doctrine true, our Lives, Religion, Liberties and Properties are trivial precarious things we only enjoy at the Kings Diſcretion, and during his Pleaſure; and ſo a whole Nation is by it offered as a Sacrifice to the luſt and fury of one man, who is either ill diſpoſed himſelf, or has evil Counſellors about him; the KING and a few Villains about him may cut all the Throats, and engroſs the whole Wealth of the Kingdom. Had our practiſes continued ſutable to what was dreaded was our Principles, in all probability, we had been by this, no Church or Nation; for we are not to ex<g ref="char:EOLhyphen"/>pect God ſhould work Miracles for our deliverance: How can we defend our ſelves againſt any exorbitant Acts of the Kings private Will, or a fatal Subvertion of the Govern<g ref="char:EOLhyphen"/>ment, if we are diſarmed and fettered by the Doctrine of <hi>Paſſive-Obedience</hi> and <hi>Non-Reſiſtance?</hi> What may not a King do, and a People ſuffer, if no Reſiſtance may be uſed? are we not juſtly accountable to God, if we throw away that being which he hath given us, when we might have preſerved it by all Juſt and Lawful ways? In ſhort, 'tis a Doctrine to be found in no Church whatever, being againſt the Law of Nature, the Law of God, and the Law of this Land. In the infancy of our Church, there was no ſuch thing heard of, not till the Barbarous Mur<g ref="char:EOLhyphen"/>der of a good King made men run into the other extream, and then it was abetted and main<g ref="char:EOLhyphen"/>tained by ſome Court-Divines, in order to magnify the Prerogative, and made by our Enemies an Engine to ſettle <hi>Popery</hi> the eaſier, and ſhorten the work of our Enemies. I grant, we are not to turn Monarchies upſide down, to make whole Kingdoms ſwim in Blood, and by force of Arms to introduce our Religion in a State or Kingdom where it is not Settled; and this was the Caſe of the <hi>Primitive Chriſtians,</hi> who ſuffered where the Laws of the Empire were in Force againſt them, and <hi>Paganiſm</hi> by Law Eſtabliſhed; they valued not their Lives or Eſtates, they had no Liberty, and deſired no Property; but betwixt them and us there is no parallel; we have Eſtates, and deſire to entail them on Poſterity; we are in a Kingdom, wherein our Religion is become our Property, and is as firmly Eſtabliſhed as Laws can make it; and we ſhould have been the greateſt villains in the World, ſhould we either have thrown away the Legal Security it had, or not have inter<g ref="char:EOLhyphen"/>poſed as far as we were able, when the Subverſion of it was attempted.</p>
+            <p>
+               <hi>Secondly,</hi> Let us ſee how far the Oath of Allegiance obliges us to Re-call the late King; and as to this part, tho' I would have all men to be ſollicitous to ſatisfy and quiet their conſciences, yet I would not have them to be too ſcrupulous and ſqueamiſh; for can we think that an Oath can cancel all former obligations, and that God will ſo punctually inſiſt on the obligation of it, when at the ſame time, it interferes with the great Duties we owe to Him, to our Re<g ref="char:EOLhyphen"/>ligion and our Country? and if of two evils we muſt chooſe the leaſt, is it not better to preſerve our Religion, than to aſſiſt to root it out, for the ſake of an Oath, which in the opi<g ref="char:EOLhyphen"/>nion of all men not prejudiced, muſt ſeem unlawful, and better broken than kept, ſince we cannot be juſt to it, and to our Religion too. If the Oath was to be taken in the utmoſt extent the Words would bear, there would appear manifeſt contradictions, that would lye in a mans Duty. If Protection and Allegiance are reciprocal, and the one failing wholly, the o<g ref="char:EOLhyphen"/>ther falls along with it: Then, ſince the late King is neither able, nor ever was willing to Protect us, our obligation ceaſes; for the Oath the King ſwears to the People at his Coro<g ref="char:EOLhyphen"/>nation, is the Foundation of that the People afterwards ſwear to the King; and if the King doth not keep his Oath, neither are the Subjects bound to keep theirs; for it is conditional and limi<g ref="char:EOLhyphen"/>ted, and has <hi>Tacit</hi> Exceptions in it; there being Duties to be performed on the one ſide as well as the other. When then the conſtitution we ſwore to was diſſolved, when the compact on which Government is founded was broken, when the Laws which gave him his Being and Power were ſubverted, and trampled under foot; when the King would Govern no longer as a King of <hi>England,</hi> then ſure his Government ceaſed: when the Father of our Country became the greateſt Enemy of it; when our Governour was turned our deſtroyer, when our Bulwarks were our bat<g ref="char:EOLhyphen"/>teries, and our Canons which ſhould have pointed at our Enemies, were levelled at our ſelves; when our King deſerted us without any juſt fear or danger, leaving us to the mercy of a
+<pb n="3" facs="tcp:93806:2"/>disbanded, though not not a diſarmed Army; and choſe rather to go off the Stage, than comply with Juſtice, and to decide the quarrel by a Battle, rather than a Parliament; alie<g ref="char:EOLhyphen"/>nating his Kingdom, and putting himſelf under the conduct of a Foreign Prince, who is the greateſt Enemy to our Church and Nation; when he reſigned his Power, and with<g ref="char:EOLhyphen"/>drew both his Perſon and his Seals, that we might have no Government; when he went about to Enſlave and Sell us, were we not obliged to look to our own ſafety and preſer<g ref="char:EOLhyphen"/>vation, though it was by ways and methods inconſiſtent with his Authority? Nay, farther, did not he himſelf ſubmit to our preſent King, by offering to him his Palace, by going under his Guards, and disbanding his Army? But to this you'l ſay, his deſertion was involun<g ref="char:EOLhyphen"/>tary, and he did deſign to come again. But to this I anſwer, That the Propoſals of our preſent King were ſo fair, the perſwaſions of the Popiſh party ſo importunate, that his force was from himſelf, and he withdrew himſelf voluntarily; but if he did deſign to return, was it that he might ſettle and provide for the Nations ſafety? did he deſign to return without borrowed Forces from <hi>France,</hi> to ruin our Properties and Laws, and de<g ref="char:EOLhyphen"/>ſtroy the Reformed Eſtabliſhed Religion? But we ſhall be better ſatisfied, if we conſider the nature of our <hi>Engliſh</hi> Monarchy, which is not boundleſs, but limited; for our Charter is not our Princes Sword, nor his Will our Law. Our King is not abſolute; and this ap<g ref="char:EOLhyphen"/>pears, becauſe the Legiſlative power is not lodged in his hands; our Government being a mixture of Monarchy in the King, Ariſtocracy in the Peers, and Democracy in the Com<g ref="char:EOLhyphen"/>mons: 'Tis no new thing, that the Nobles and Commons of <hi>England</hi> ſhould remove Kings from the Government, when neceſſary to prevent a general Ruin, otherwiſe inevitable; for tho we muſt render to <hi>Caeſar</hi> the things that are <hi>Caeſars,</hi> I hope the conſtitution of our Country are to determine what the things of <hi>Caeſar</hi> are.</p>
+            <p>But ſome will Object, and ſay, That if the Kings Zeal for his Religion was ſo great, that it made him uncapable of Governing a Proteſtant Kingdom, according to the Laws; why might not he ſtill have retained the Title of KING, and the Prince of <hi>Orange</hi> have been Regent?</p>
+            <p>To this I Anſwer, <hi>Firſt,</hi> That a King without Power cannot be much at his eaſe, and his ſtruggle for it muſt end in deſtroying the Regency, or the Regent; or elſe he muſt have been impriſoned; which how ungrateful it would have been to his nature, we may eaſily imagine, beſides the fatal conſequence which might attend it: a Princes Priſon not be<g ref="char:EOLhyphen"/>ing many ſteps from his Grave.</p>
+            <p>
+               <hi>Secondly,</hi> The ſetting up a Regent would be as direct a violation of the Oath of Alle<g ref="char:EOLhyphen"/>giance, as a ſubmiſſion to the preſent ſettlement; for we are bound to maintain his Pre<g ref="char:EOLhyphen"/>rogative as well as his Title.</p>
+            <p>Having now ſhewed, that it is not our Duty to recall the Late King; I ſhall now go on to ſhew, that it is not our intereſt, and ſhall addreſs my ſelf to thoſe, who at preſent ſeem the moſt diſaffected in the Nation, and the moſt deſirous of it; and becauſe I am ſure you are well affected to the Church of <hi>England,</hi> I would deſire to know what ſecurity you could pro<g ref="char:EOLhyphen"/>poſe to her in reſtoring the late King, when you ſee what regardleſs trifles Oaths and Promi<g ref="char:EOLhyphen"/>ſes are, when Popery is in the other Scale, &amp; the King's Conſcience is managed by a hot-brain'd Jeſuit; when you ſee how inſignificant all limitations by Laws is, when claim is laid to a <hi>Diſpenſing Power;</hi> you cannot ſuppoſe he'll grant himſelf to be ſtript of his Power, and without that you can have no ſecurity; can you think he will diſcard his old Friends, who have ſtuck ſo cloſe to him, and for whoſe ſakes he freely quitted his Kingdoms? and if he does not, what a pretty poſture will you be in? beſides, by what branch of your Oath are you empowered to make conditions with your King? What aſſurance can you have, that he will eſteem your ſervices, if you do not go through ſtitch with him, ſince you have many and freſh examples of thoſe, whoſe being only Proteſtants, was enough to cancel all the obligations they could lay claim to, and all the pleas of merit for their former ſervices? What if he did make guilded offers of
+<pb n="4" facs="tcp:93806:3"/>Favour and Protection; that is but natural for all men in Affliction, to make to thoſe, by whom they expect to be relieved; but the Point once gained, they are ſeldom ever thought of; but it is ſo far from this, that the late King, and his Adherents, ſtick not to declare, That if he regains his Kingdoms, the whole Deſign of Popery and Arbitrary Government, ſhall return upon us with more Fury than ever; beſides, he dares truſt none, nor will he thank any, if he riſe to his Throne, but his Catholick Subjects, as he calls them; Can you hear<g ref="char:EOLhyphen"/>tily fight for that Cauſe, which, if you are true Proteſtants, you dare not wiſh ſucceſs to. I doubt not but the moſt of you look upon the pretended Prince of <hi>Wales</hi> to be a Sham and an Impoſtor, and will you draw your Swords againſt the Lawful Heireſs and Succeſſor, (which is included too in the Oath of Allegiance) for one whom you have all the Preſum<g ref="char:EOLhyphen"/>ptions imaginable to believe is ſuppoſititions; can you aſſiſt him in that Ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>barous Act of depriving his own Children of the Hereditary Rights of Succeſſion, only becauſe they were of your own Perſwaſion, and ruine the Church of <hi>England,</hi> and the happy Conſtitution of our Engliſh Government? I am ſure, whatever ſeverities our Religion requires you to ſuffer from Popery, when in poſſeſſion, it does not oblige you to contribute to the bringing of it in: Will you then voluntarily run into Confuſion, and put your Necks into the Yoke of Tyranny, meerly for the ſake of one who has done his utmoſt Endeavours to ruine and enſlave us? Do you think your ſelves obliged to enable him to crantch and tear in pieces, as many as he pleaſes, and execute all the direful Effects of his enraged Fury; for he cannot return without deſtroying, at leaſt, ten parts of his People; and when that is done, his Kingdom and Himſelf would be but a PREY to a more powerful Neighbour? Sure we are no ways commanded to put Swords into Mad-mens hands, as oft as we find them diſarmed; or enjoyned to hang our ſelves for the diverſion and ſport of Fools and Knaves; and ſure we muſt not chooſe Miſery, when we have the greateſt Appearances poſſible, that GOD by his Providence works effectually and miraculouſly for our Delivery: In a word, do not ſacrifice your greateſt Intereſts to an empty Formality, do not deſire the Storm to return heavier upon us, do not court Slavery and Servitude, and fall in Love with Fetters; be not ſo miſled with the narrow Notions of an unbounded Loyalty, as to oppoſe and diſlike our preſent Happy Settlement.</p>
+            <p>And now I addreſs my ſelf to the other Party, who though they may not contribute to bring in the late King with their Swords, will by their Diviſions, if not abated. It was the Civil Diſcords of our Anceſtors, which brought our King and Country under the Subjection of the Roman Emperor; and I am ſure your violent Heats about Religion, if continued, will at laſt bring our Church under the Vaſſalage of the Roman Biſhop: It is now unſeaſonable for little Scruples to weigh ſo far with you, as to break the Peace of the Church about them, and endanger our whole Religion, and that we ſhould now be taking one another by the Throats for an hundred pence, when our Common Adverſary ſtands ready to clap on us an Action of a thouſand Talents: would you be content, that rather than the Surplice ſhould not be turned out, Popery ſhould again come in? would you exchange our Liturgy for the Maſs-Book; and rather than receive the Sacrament kneeling, ſwallow Tranſubſtantiation? Will you ſtill continue to take Advice from thoſe you know wiſh us no good? and will you be their Inſtruments to do their Work for them, whom you pretend the moſt you hate? You may make as loud Pretenſions as you will of your Hatred to Popery, but while you continue theſe Fends and Animoſities, you only make a broad Gap for it to enter, and ſo to make us once again Slaves, and Miſerable.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON Printed, and are to be Sold by <hi>Randal Taylor</hi> near <hi>Stationers-Hall, 1689.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
